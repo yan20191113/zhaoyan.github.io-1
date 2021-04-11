@@ -9,7 +9,7 @@
       <p><b>Address: Office 3.2.38, Selma Lagerlöfs Vej 300, DK-9220, Aalborg Øst, Denmark</b></p>
     </td>
     <td width="25%">
-      <img src="1.jpg" width="100%">      
+      <img src="2.jpg" width="100%">      
     </td>
   </tr>
 </table>
